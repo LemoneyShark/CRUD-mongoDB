@@ -1,0 +1,2 @@
+สร้าง module :
+go mod init gobasic
